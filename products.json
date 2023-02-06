@@ -1,0 +1,71 @@
+{
+    "product1": {
+        "id": 1,
+        "tensanpham": "Mì gói",
+        "donvitinh": "VNĐ",
+        "gia": "5000"
+    },
+
+    "product2": {
+        "id": 2,
+        "tensanpham": "Cà phê",
+        "donvitinh": "VNĐ",
+        "gia": "5000"
+    },
+
+    "product3": {
+        "id": 3,
+        "tensanpham": "Redbull",
+        "donvitinh": "VNĐ",
+        "gia": "5000"
+    },
+
+    "product4": {
+        "id": 4,
+        "tensanpham": "Sting",
+        "donvitinh": "VNĐ",
+        "gia": "5000"
+    },
+
+    "product5": {
+        "id": 5,
+        "tensanpham": "Snack",
+        "donvitinh": "VNĐ",
+        "gia": "5000"
+    },
+
+    "product6": {
+        "id": 6,
+        "tensanpham": "Sữa",
+        "donvitinh": "VNĐ",
+        "gia": "5000"
+    },
+
+    "product7": {
+        "id": 7,
+        "tensanpham": "Kẹo",
+        "donvitinh": "VNĐ",
+        "gia": "5000"
+    },
+
+    "product8": {
+        "id": 8,
+        "tensanpham": "Bánh",
+        "donvitinh": "VNĐ",
+        "gia": "5000"
+    },
+
+    "product9": {
+        "id": 9,
+        "tensanpham": "Bia",
+        "donvitinh": "VNĐ",
+        "gia": "5000"
+    },
+
+    "product10": {
+        "id": 10,
+        "tensanpham": "Bút",
+        "donvitinh": "VNĐ",
+        "gia": "5000"
+    }
+}
